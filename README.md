@@ -5,7 +5,7 @@
 # Team Members Name:
 *  Lakshit Rajput   [lakshitrajput](https://github.com/lakshitrajput)
 *  Harshit Pandey   [harshit1142](https://github.com/harshit1142)
-*  Shresth Jalan    [lakshitrajput](https://github.com/lakshitrajput)
+*  Shresth Jalan    [Shresthjalan](https://github.com/Shresthjalan)
 *  Harshit Shukla   [nitian-harsh](https://github.com/nitian-harsh)
 
 # Proposed features:
